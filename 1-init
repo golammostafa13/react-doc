@@ -1,14 +1,3 @@
-# You Might Not Need an Effect: A Junior Developer's Guide
-
-## 🎯 What You'll Learn
-
--   When NOT to use `useEffect`
--   How to make your React code faster and simpler
--   Common mistakes junior developers make with Effects
--   Practical examples you can use right away
-
-## 🤔 What Are Effects and Why This Matters
-
 Think of `useEffect` as React's way to "step outside" the normal React flow. It's like having a side conversation while the main React party is happening. But here's the thing - **most of the time, you don't need this side conversation!**
 
 ### The Golden Rule
