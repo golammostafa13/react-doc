@@ -338,7 +338,3 @@ Need to do something in React?
 4. Study how modern frameworks handle data fetching
 
 Remember: **Good React code often has fewer Effects, not more!** 🎉
-
----
-
-_Happy coding! If you found this helpful, try refactoring one of your components to remove an unnecessary Effect. You'll be amazed at how much cleaner your code becomes!_
