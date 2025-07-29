@@ -1,3 +1,5 @@
+Bismillah
+
 Think of `useEffect` as React's way to "step outside" the normal React flow. It's like having a side conversation while the main React party is happening. But here's the thing - **most of the time, you don't need this side conversation!**
 
 ### The Golden Rule
